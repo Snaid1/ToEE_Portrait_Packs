@@ -1,4 +1,4 @@
-# ToEE_Portrait_Packs
+# Temple of Elemental Evil Portrait Packs
 My Portrait Packs for the game Temple of Elemental Evil.
 
 my packs are:
@@ -19,7 +19,7 @@ copy the contents of one of the portrait pack folders into the \data\art\interfa
 (there should be no subfolders/subdirectories in the portraits folder)
 start game and enjoy!
 
-### regular game (no mods)
+### Regular Game (no mods)
 I don't play without the above 2 mods installed (Circle of Eight Modpack and Temple+). you should be able to install like for the Circle of Eight instructions above but I'm not doing a clean install to find out. if anyone can confirm that those instructions work I'd appreciate it. 
 
 All Artwork (c)Copywrite of their respective owners. 
