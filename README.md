@@ -3,11 +3,11 @@ My Portrait Packs for the game Temple of Elemental Evil.
 
 ### My Current Packs:
 
-Eberron Pack - contains portraits made from the artwork found in Eberron D&D 3.5 sourcebooks
+**Eberron Pack** - contains portraits made from the artwork found in Eberron D&D 3.5 sourcebooks
 
-DnD5e Pack - contains portraits made from the artwork found in the D&D 5e PHB
+**DnD5e Pack** - contains portraits made from the artwork found in the D&D 5e PHB
 
-TieflingsAndAasimars Pack - Contains portraits made from pictures of Tieflings and Aasimars from several D&D 3.5 and 5e books. 
+**TieflingsAndAasimars Pack** - Contains portraits made from pictures of Tieflings and Aasimars from several D&D 3.5 and 5e books. 
 
 ## Installation
 Depending on your setup follow the appropriate installation instructions
