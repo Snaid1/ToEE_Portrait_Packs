@@ -1,7 +1,7 @@
 # Temple of Elemental Evil Portrait Packs
 My Portrait Packs for the game Temple of Elemental Evil.
 
-###My Current Packs:
+### My Current Packs:
 
 Eberron Pack - contains portraits made from the artwork found in Eberron D&D 3.5 sourcebooks
 
