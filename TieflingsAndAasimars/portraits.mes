@@ -104,12 +104,6 @@
 {0073} {GNF_0073_s_adamo_grey.tga}
 {0074} {GNF_0074_m_adamo_grey.tga}
 
-{0090} {Eberron_0050_B.tga}
-{0091} {Eberron_0051_M.tga}
-{0092} {Eberron_0052_S.tga}
-{0093} {Eberron_0053_S_GREY.tga}
-{0094} {Eberron_0054_M_GREY.tga}
-
 ; humans
 {0300} {HUM_0500_b_warrior.tga}
 {0301} {HUM_0501_m_warrior.tga}
@@ -279,71 +273,185 @@
 {0573} {HUF_0773_s_adamo_grey.tga}
 {0574} {HUF_0774_m_adamo_grey.tga}
 
-{0580} {Eberron_0030_B.tga}
-{0581} {Eberron_0031_M.tga}
-{0582} {Eberron_0032_S.tga}
-{0583} {Eberron_0033_S_GREY.tga}
-{0584} {Eberron_0034_M_GREY.tga}
+{0580} {Aasf_0220_B.tga}
+{0581} {Aasf_0221_M.tga}
+{0582} {Aasf_0222_S.tga}
+{0583} {Aasf_0223_S_GREY.tga}
+{0584} {Aasf_0224_M_GREY.tga}
 
-{0590} {Eberron_0040_B.tga}
-{0591} {Eberron_0041_M.tga}
-{0592} {Eberron_0042_S.tga}
-{0593} {Eberron_0043_S_GREY.tga}
-{0594} {Eberron_0044_M_GREY.tga}
+{0590} {Aasf_0270_B.tga}
+{0591} {Aasf_0271_M.tga}
+{0592} {Aasf_0272_S.tga}
+{0593} {Aasf_0273_S_GREY.tga}
+{0594} {Aasf_0274_M_GREY.tga}
 
-{0600} {Eberron_0060_B.tga}
-{0601} {Eberron_0061_M.tga}
-{0602} {Eberron_0062_S.tga}
-{0603} {Eberron_0063_S_GREY.tga}
-{0604} {Eberron_0064_M_GREY.tga}
+{0600} {Aasf_0280_B.tga}
+{0601} {Aasf_0281_M.tga}
+{0602} {Aasf_0282_S.tga}
+{0603} {Aasf_0283_S_GREY.tga}
+{0604} {Aasf_0284_M_GREY.tga}
 
-{0610} {Eberron_0070_B.tga}
-{0611} {Eberron_0071_M.tga}
-{0612} {Eberron_0072_S.tga}
-{0613} {Eberron_0073_S_GREY.tga}
-{0614} {Eberron_0074_M_GREY.tga}
+{0610} {Aasf_0340_B.tga}
+{0611} {Aasf_0341_M.tga}
+{0612} {Aasf_0342_S.tga}
+{0613} {Aasf_0343_S_GREY.tga}
+{0614} {Aasf_0344_M_GREY.tga}
 
-{0620} {Eberron_0080_B.tga}
-{0621} {Eberron_0081_M.tga}
-{0622} {Eberron_0082_S.tga}
-{0623} {Eberron_0083_S_GREY.tga}
-{0624} {Eberron_0084_M_GREY.tga}
+{0620} {Aasm_0030_B.tga}
+{0621} {Aasm_0031_M.tga}
+{0622} {Aasm_0032_S.tga}
+{0623} {Aasm_0033_S_GREY.tga}
+{0624} {Aasm_0034_M_GREY.tga}
 
-{0630} {Eberron_0110_B.tga}
-{0630} {Eberron_0111_M.tga}
-{0632} {Eberron_0112_S.tga}
-{0633} {Eberron_0113_S_GREY.tga}
-{0634} {Eberron_0114_M_GREY.tga}
+{0630} {Aasm_0140_B.tga}
+{0631} {Aasm_0141_M.tga}
+{0632} {Aasm_0142_S.tga}
+{0633} {Aasm_0143_S_GREY.tga}
+{0634} {Aasm_0144_M_GREY.tga}
 
-{0640} {Eberron_0120_B.tga}
-{0641} {Eberron_0121_M.tga}
-{0642} {Eberron_0122_S.tga}
-{0643} {Eberron_0123_S_GREY.tga}
-{0644} {Eberron_0124_M_GREY.tga}
+{0640} {Aasm_0170_B.tga}
+{0641} {Aasm_0171_M.tga}
+{0642} {Aasm_0172_S.tga}
+{0643} {Aasm_0173_S_GREY.tga}
+{0644} {Aasm_0174_M_GREY.tga}
 
-{0650} {Eberron_0150_B.tga}
-{0651} {Eberron_0151_M.tga}
-{0652} {Eberron_0152_S.tga}
-{0653} {Eberron_0153_S_GREY.tga}
-{0654} {Eberron_0154_M_GREY.tga}
+{0650} {Aasm_0180_B.tga}
+{0651} {Aasm_0181_M.tga}
+{0652} {Aasm_0182_S.tga}
+{0653} {Aasm_0183_S_GREY.tga}
+{0654} {Aasm_0184_M_GREY.tga}
 
-{0660} {Eberron_0160_B.tga}
-{0661} {Eberron_0161_M.tga}
-{0662} {Eberron_0162_S.tga}
-{0663} {Eberron_0163_S_GREY.tga}
-{0664} {Eberron_0164_M_GREY.tga}
+{0660} {Aasm_0240_B.tga}
+{0661} {Aasm_0241_M.tga}
+{0662} {Aasm_0242_S.tga}
+{0663} {Aasm_0243_S_GREY.tga}
+{0664} {Aasm_0244_M_GREY.tga}
 
-{0670} {Eberron_0180_B.tga}
-{0671} {Eberron_0181_M.tga}
-{0672} {Eberron_0182_S.tga}
-{0673} {Eberron_0183_S_GREY.tga}
-{0674} {Eberron_0184_M_GREY.tga}
+{0670} {Aasm_0250_B.tga}
+{0671} {Aasm_0251_M.tga}
+{0672} {Aasm_0252_S.tga}
+{0673} {Aasm_0253_S_GREY.tga}
+{0674} {Aasm_0254_M_GREY.tga}
 
-{0680} {Eberron_0200_B.tga}
-{0681} {Eberron_0201_M.tga}
-{0682} {Eberron_0202_S.tga}
-{0683} {Eberron_0203_S_GREY.tga}
-{0684} {Eberron_0204_M_GREY.tga}
+{0680} {Aasm_0260_B.tga}
+{0681} {Aasm_0261_M.tga}
+{0682} {Aasm_0262_S.tga}
+{0683} {Aasm_0263_S_GREY.tga}
+{0684} {Aasm_0264_M_GREY.tga}
+
+{0690} {Aasm_0290_B.tga}
+{0691} {Aasm_0291_M.tga}
+{0692} {Aasm_0292_S.tga}
+{0693} {Aasm_0293_S_GREY.tga}
+{0694} {Aasm_0294_M_GREY.tga}
+
+{0700} {Tief_0050_B.tga}
+{0701} {Tief_0051_M.tga}
+{0702} {Tief_0052_S.tga}
+{0703} {Tief_0053_S_GREY.tga}
+{0704} {Tief_0054_M_GREY.tga}
+
+{0710} {Tief_0100_B.tga}
+{0711} {Tief_0101_M.tga}
+{0712} {Tief_0102_S.tga}
+{0713} {Tief_0103_S_GREY.tga}
+{0714} {Tief_0104_M_GREY.tga}
+
+{0720} {Tief_0110_B.tga}
+{0721} {Tief_0111_M.tga}
+{0722} {Tief_0112_S.tga}
+{0723} {Tief_0113_S_GREY.tga}
+{0724} {Tief_0114_M_GREY.tga}
+
+{0730} {Tief_0150_B.tga}
+{0731} {Tief_0151_M.tga}
+{0732} {Tief_0152_S.tga}
+{0733} {Tief_0153_S_GREY.tga}
+{0734} {Tief_0154_M_GREY.tga}
+
+{0740} {Tief_0160_B.tga}
+{0741} {Tief_0161_M.tga}
+{0742} {Tief_0162_S.tga}
+{0743} {Tief_0163_S_GREY.tga}
+{0744} {Tief_0164_M_GREY.tga}
+
+{0750} {Tief_0190_B.tga}
+{0751} {Tief_0191_M.tga}
+{0752} {Tief_0192_S.tga}
+{0753} {Tief_0193_S_GREY.tga}
+{0754} {Tief_0194_M_GREY.tga}
+
+{0760} {Tief_0310_B.tga}
+{0761} {Tief_0311_M.tga}
+{0762} {Tief_0312_S.tga}
+{0763} {Tief_0313_S_GREY.tga}
+{0764} {Tief_0314_M_GREY.tga}
+
+{0770} {Tief_0320_B.tga}
+{0771} {Tief_0321_M.tga}
+{0772} {Tief_0322_S.tga}
+{0773} {Tief_0323_S_GREY.tga}
+{0774} {Tief_0324_M_GREY.tga}
+
+{0780} {Tief_0330_B.tga}
+{0781} {Tief_0331_M.tga}
+{0782} {Tief_0332_S.tga}
+{0783} {Tief_0333_S_GREY.tga}
+{0784} {Tief_0334_M_GREY.tga}
+
+{0790} {Tiem_0040_B.tga}
+{0791} {Tiem_0041_M.tga}
+{0792} {Tiem_0042_S.tga}
+{0793} {Tiem_0043_S_GREY.tga}
+{0794} {Tiem_0044_M_GREY.tga}
+
+{0800} {Tiem_0060_B.tga}
+{0801} {Tiem_0061_M.tga}
+{0802} {Tiem_0062_S.tga}
+{0803} {Tiem_0063_S_GREY.tga}
+{0804} {Tiem_0064_M_GREY.tga}
+
+{0810} {Tiem_0070_B.tga}
+{0811} {Tiem_0071_M.tga}
+{0812} {Tiem_0072_S.tga}
+{0813} {Tiem_0073_S_GREY.tga}
+{0814} {Tiem_0074_M_GREY.tga}
+
+{0820} {Tiem_0080_B.tga}
+{0821} {Tiem_0081_M.tga}
+{0822} {Tiem_0082_S.tga}
+{0823} {Tiem_0083_S_GREY.tga}
+{0824} {Tiem_0084_M_GREY.tga}
+
+{0830} {Tiem_0090_B.tga}
+{0831} {Tiem_0091_M.tga}
+{0832} {Tiem_0092_S.tga}
+{0833} {Tiem_0093_S_GREY.tga}
+{0834} {Tiem_0094_M_GREY.tga}
+
+{0840} {Tiem_0120_B.tga}
+{0841} {Tiem_0121_M.tga}
+{0842} {Tiem_0122_S.tga}
+{0843} {Tiem_0123_S_GREY.tga}
+{0844} {Tiem_0124_M_GREY.tga}
+
+{0850} {Tiem_0130_B.tga}
+{0851} {Tiem_0131_M.tga}
+{0852} {Tiem_0132_S.tga}
+{0853} {Tiem_0133_S_GREY.tga}
+{0854} {Tiem_0134_M_GREY.tga}
+
+{0860} {Tiem_0230_B.tga}
+{0861} {Tiem_0231_M.tga}
+{0862} {Tiem_0232_S.tga}
+{0863} {Tiem_0233_S_GREY.tga}
+{0864} {Tiem_0234_M_GREY.tga}
+
+{0870} {Tiem_0300_B.tga}
+{0871} {Tiem_0301_M.tga}
+{0872} {Tiem_0302_S.tga}
+{0873} {Tiem_0303_S_GREY.tga}
+{0874} {Tiem_0304_M_GREY.tga}
 
 ; elves
 {1000} {ELF_1000_b_sorcerer.tga}
@@ -418,6 +526,12 @@
 {1113} {ELF_1113_s_adamo_grey.tga}
 {1114} {ELF_1114_m_adamo_grey.tga}
 
+{1120} {Tiee_0200_B.tga}
+{1121} {Tiee_0201_M.tga}
+{1122} {Tiee_0202_S.tga}
+{1123} {Tiee_0203_S_GREY.tga}
+{1124} {Tiee_0204_M_GREY.tga}
+
 ; half-elves
 {1500} {HEF_1500_b_druid.tga}
 {1501} {HEF_1501_m_druid.tga}
@@ -430,31 +544,6 @@
 {1512} {HEM_1512_s_bard.tga}
 {1513} {HEM_1513_s_bard_grey.tga}
 {1514} {HEM_1514_m_bard_grey.tga}
-
-{1520} {Eberron_0010_B.tga}
-{1521} {Eberron_0011_M.tga}
-{1522} {Eberron_0012_S.tga}
-{1523} {Eberron_0013_S_GREY.tga}
-{1524} {Eberron_0014_M_GREY.tga}
-
-{1530} {Eberron_0090_B.tga}
-{1531} {Eberron_0091_M.tga}
-{1532} {Eberron_0092_S.tga}
-{1533} {Eberron_0093_S_GREY.tga}
-{1534} {Eberron_0094_M_GREY.tga}
-
-{1540} {Eberron_0210_B.tga}
-{1541} {Eberron_0211_M.tga}
-{1542} {Eberron_0212_S.tga}
-{1543} {Eberron_0213_S_GREY.tga}
-{1544} {Eberron_0214_M_GREY.tga}
-
-{1550} {Eberron_0230_B.tga}
-{1551} {Eberron_0231_M.tga}
-{1552} {Eberron_0232_S.tga}
-{1553} {Eberron_0233_S_GREY.tga}
-{1554} {Eberron_0234_M_GREY.tga}
-
 
 ; dwarves
 {2000} {DWM_2000_b_fighter.tga}
@@ -540,25 +629,6 @@
 {2132} {DWF_2132_s_adamo.tga}
 {2133} {DWF_2133_s_adamo_grey.tga}
 {2134} {DWF_2134_m_adamo_grey.tga}
-
-{2140} {Eberron_0020_B.tga}
-{2141} {Eberron_0021_M.tga}
-{2142} {Eberron_0022_S.tga}
-{2143} {Eberron_0023_S_GREY.tga}
-{2144} {Eberron_0024_M_GREY.tga}
-
-{2150} {Eberron_0100_B.tga}
-{2151} {Eberron_0101_M.tga}
-{2152} {Eberron_0102_S.tga}
-{2153} {Eberron_0103_S_GREY.tga}
-{2154} {Eberron_0104_M_GREY.tga}
-
-{2160} {Eberron_0190_B.tga}
-{2161} {Eberron_0191_M.tga}
-{2162} {Eberron_0192_S.tga}
-{2163} {Eberron_0193_S_GREY.tga}
-{2164} {Eberron_0194_M_GREY.tga}
-
 
 ; halflings
 {2500} {HAM_2500_b_rogue.tga}
@@ -688,35 +758,11 @@
 {3133} {HOM_3133_s_adamo_grey.tga}
 {3134} {HOM_3134_m_adamo_grey.tga}
 
-{3140} {Eberron_0130_B.tga}
-{3141} {Eberron_0131_M.tga}
-{3142} {Eberron_0132_S.tga}
-{3143} {Eberron_0133_S_GREY.tga}
-{3144} {Eberron_0134_M_GREY.tga}
-
-{3150} {Eberron_0140_B.tga}
-{3151} {Eberron_0141_M.tga}
-{3152} {Eberron_0142_S.tga}
-{3153} {Eberron_0143_S_GREY.tga}
-{3154} {Eberron_0144_M_GREY.tga}
-
-{3160} {Eberron_0170_B.tga}
-{3161} {Eberron_0171_M.tga}
-{3162} {Eberron_0172_S.tga}
-{3163} {Eberron_0173_S_GREY.tga}
-{3164} {Eberron_0174_M_GREY.tga}
-
-{3170} {Eberron_0220_B.tga}
-{3171} {Eberron_0221_M.tga}
-{3172} {Eberron_0222_S.tga}
-{3173} {Eberron_0223_S_GREY.tga}
-{3174} {Eberron_0224_M_GREY.tga}
-
-{3180} {Eberron_0240_B.tga}
-{3181} {Eberron_0241_M.tga}
-{3182} {Eberron_0242_S.tga}
-{3183} {Eberron_0243_S_GREY.tga}
-{3184} {Eberron_0244_M_GREY.tga}
+{3140} {Tieo_0210_B.tga}
+{3141} {Tieo_0211_M.tga}
+{3142} {Tieo_0212_S.tga}
+{3143} {Tieo_0213_S_GREY.tga}
+{3144} {Tieo_0214_M_GREY.tga}
 
 ; monsters
 {3500} {}
