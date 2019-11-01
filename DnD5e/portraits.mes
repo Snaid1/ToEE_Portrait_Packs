@@ -371,6 +371,19 @@
 {0913} {DnD5e_0343_S_GREY.tga}
 {0914} {DnD5e_0344_M_GREY.tga}
 
+; tieflings
+{0950} {DnD5e_0130_B.tga}
+{0951} {DnD5e_0131_M.tga}
+{0952} {DnD5e_0132_S.tga}
+{0953} {DnD5e_0133_S_GREY.tga}
+{0954} {DnD5e_0134_M_GREY.tga}
+
+{0960} {DnD5e_0280_B.tga}
+{0961} {DnD5e_0281_M.tga}
+{0962} {DnD5e_0282_S.tga}
+{0963} {DnD5e_0283_S_GREY.tga}
+{0964} {DnD5e_0284_M_GREY.tga}
+
 ; elves
 {1000} {ELF_1000_b_sorcerer.tga}
 {1001} {ELF_1001_m_sorcerer.tga}
